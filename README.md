@@ -1,4 +1,4 @@
-#Online-cryptocurreny-portfolio
+# Online-cryptocurreny-portfolio
 Mean-Variance portfolio optimization models are sensitive to uncertainty in risk-return estimates, which may result in poor out-of-sample performance. 
 In particular, the estimates may suffer when the number of assets considered is high and the length of the return time series is not sufficiently long. 
 This is precisely the case in the cryptocurrency market, where there are hundreds of crypto assets that have been traded for a few years. 
